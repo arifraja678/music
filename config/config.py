@@ -17,7 +17,7 @@ API_HASH = getenv("API_HASH", "6c510ffd8cb84bfbec630587a3b9d758")
 BOT_TOKEN = getenv("BOT_TOKEN", "8117260332:AAFAgNtrf_j_KSdL66UGh3h5_Y-M4wv_EO8")
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
-MONGO_DB_URI = getenv("MONGO_DB_URI", "isi mongo")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://hasibuanarif262:2aSYdYH4Fm0L9sTo@bacot.v6tkf.mongodb.net/?retryWrites=true&w=majority&appName=bacot")
 
 
 CLEANMODE_DELETE_MINS = int(
