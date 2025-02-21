@@ -31,7 +31,7 @@ DURATION_LIMIT_MIN = int(
 )  # Remember to give value in Minutes
 
 # forced entry
-MUST_JOIN = getenv("MUST_JOIN", "@bacotttstore")
+MUST_JOIN = getenv("MUST_JOIN", "@bacotstoree")
 
 
 EXTRA_PLUGINS = getenv(
@@ -89,10 +89,10 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/GalleryUsu"
+    "SUPPORT_CHANNEL", "https://t.me/bacotstoree"
 )
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/GalleryUsu"
+    "SUPPORT_GROUP", "bacotsupport"
 ) 
 
 
@@ -116,7 +116,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://t.me/FakeCodeID")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://t.me/bacotrobott")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
@@ -159,7 +159,7 @@ STRING5 = getenv("STRING_SESSION5", None)
 BANNED_USERS = filters.user()
 YTDOWNLOADER = 1
 LOG = 2
-LOG_FILE_NAME = "Usulogs.txt"
+LOG_FILE_NAME = "bacotrobott.txt"
 adminlist = {}
 lyrical = {}
 chatstats = {}
