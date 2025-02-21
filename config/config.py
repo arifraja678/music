@@ -59,12 +59,12 @@ SONG_DOWNLOAD_DURATION = int(
 
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002323610313"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002396985894"))
 
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "8074994806").split())
+    map(int, getenv("OWNER_ID", "7016953372").split())
 )  # Input type must be interger
 
 
