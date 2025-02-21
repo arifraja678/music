@@ -149,7 +149,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 
 SET_CMDS = getenv("SET_CMDS", "False")
 
-STRING1 = getenv("STRING_SESSION", "isi string lu buat akun assistant...ngambil string lewat bot string")
+STRING1 = getenv("STRING_SESSION", "BQGYFpEAFO9wpqVYPqYZZeeYm-HDQny8uuVigSinjoJaz-Deh2PgHMTj_B5ph8g9reI8vyRWo87pIRMM6cxPQyIrFEQVHibFmLcXzy1RWl7puXc_4SdDCVmHD7dy-5cvUDmxNvaB0dhGcf6wby8KSwIyH7lpN5ccdSueRq9VGRVWaFkYG3GgTrQ-jCelTxhfrNJhBU6HFudi9P4MYddaeNBTTYMkqFlqHCB5n0zZ4SFMebhp1pNEwxEAN-L7f9aNdiubK4MtPL7WXGE4uUZFpqP6F9EAcv23zXkVlMdJP_WgED0kSnSgoEH7SXnk6ndJZp8ngCfifnZFL2s0Bu7M7mK4mIyeHwAAAAGiPjYcAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
