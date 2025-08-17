@@ -173,14 +173,14 @@ autoclean = []
 PHOTO = list(
     filter(
         None,
-        getenv("PHOTO_LINKS", "https://i.ibb.co/cSGDrpYq/photo-2025-02-21-17-46-35-7473930268332523544.jpg").split(),
+        getenv("PHOTO_LINKS", "https://i.ibb.co/hxd4TZHY/photo-2025-08-17-01-16-46-7539357270384050192.jpg").split(),
     )
 )
 
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://i.ibb.co/cSGDrpYq/photo-2025-02-21-17-46-35-7473930268332523544.jpg",
+    "https://i.ibb.co/hxd4TZHY/photo-2025-08-17-01-16-46-7539357270384050192.jpg",
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
