@@ -92,7 +92,7 @@ SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/rajaastore"
 )
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "rajasupportt"
+    "SUPPORT_GROUP", "https://t.me/rajasupportt"
 ) 
 
 
