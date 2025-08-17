@@ -31,7 +31,7 @@ DURATION_LIMIT_MIN = int(
 )  # Remember to give value in Minutes
 
 # forced entry
-MUST_JOIN = getenv("MUST_JOIN", "@bacotstoree")
+MUST_JOIN = getenv("MUST_JOIN", "@rajaanaa12")
 
 
 EXTRA_PLUGINS = getenv(
@@ -78,7 +78,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://t.me/bacotstoree",
+    "https://t.me/rajaana12",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -89,10 +89,10 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/bacotstoree"
+    "SUPPORT_CHANNEL", "https://t.me/rajaastore"
 )
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "bacotsupport"
+    "SUPPORT_GROUP", "rajasupportt"
 ) 
 
 
@@ -116,7 +116,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://t.me/bacotrobott")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://t.me/rajaana12")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
